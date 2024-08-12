@@ -26,3 +26,13 @@
 .text-primary {
     color: #383e56;
 }
+
+.text-white {
+    color: #fff;
+}
+
+.button-info {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
